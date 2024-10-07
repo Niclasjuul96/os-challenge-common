@@ -15,4 +15,3 @@ fi
 
 echo "$ARCH/bin/$OS"
 
-
